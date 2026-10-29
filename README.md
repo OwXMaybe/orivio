@@ -112,3 +112,7 @@ Before a public release:
 - [ ] The rate limiter is in-memory per server instance. With several instances or serverless scaling, move it to a shared store (e.g. a Postgres table or Redis).
 - [ ] Review Supabase Auth settings: email confirmation on, password minimum length ≥ 8, rate limits.
 - [ ] Set `maxDuration` limits that your host plan allows (the investigate routes request up to 300 s).
+
+## License
+
+[MIT](LICENSE) © 2026 Eren Tyto
