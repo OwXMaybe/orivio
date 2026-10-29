@@ -2,6 +2,16 @@
 
 An evidence-led research laboratory: it splits claims into checkable statements, plans balanced research, gathers sources from both sides, and reports transparently on what it did and did not do.
 
+## Screenshots
+
+![Research dashboard](docs/screenshots/dashboard.png)
+
+| Investigation timeline | Explore |
+|---|---|
+| ![Investigation](docs/screenshots/investigation.png) | ![Explore](docs/screenshots/explore.png) |
+
+*The investigation above ran in keyless rule-based mode, so the search steps are reported as skipped.*
+
 ## Run locally
 
 ```bash
